@@ -1,0 +1,6 @@
+5
+../data/play1.map 100 0
+../data/play2.map 50 3
+../data/play3.map 100 20
+../data/play4.map 50 3
+../data/play5.map 100 5
